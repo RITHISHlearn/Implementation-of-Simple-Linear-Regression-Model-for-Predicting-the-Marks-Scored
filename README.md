@@ -102,31 +102,31 @@ rmse=np.sqrt(mse)
 
 print("RMSE= ",rmse)
 ## Output:
-                   df.head()
+               df.head()
 ![ml2 1](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/4b472129-c44e-4df9-85cc-4a8508b2c343)
 
-df.tail()
+               df.tail()
 ![ml2 2](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/b7ed5586-c651-4643-b710-afb43731237a)
 
-Array of value of X
+               Array of value of X
 ![ml2 3](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/73e10e66-975c-4356-b449-debb75b31dfa)
 
-Array of value of Y
+               Array of value of Y
 ![ml2 4](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/33e513b4-f889-4724-abbe-136c1a22eac1)
 
-Values of Y prediction
+               Values of Y prediction
 ![ml2 5](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/a02febc2-4548-477f-80cd-0e4bdadfc422)
 
-Array values of Y test
+               Array values of Y test
 ![ml2 6](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/0e069bd0-224f-4629-bd5a-fe3052abc447)
 
-Training Set Graph
+              Training Set Graph
 ![ml2 7](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/bdf1412e-ff9d-4f36-9f1b-edf8cde742d9)
 
-Test Set Graph
+              Test Set Graph
 ![ml2 8](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/accfd9cd-d3ce-45e7-a0eb-1fcce9f059c6)
 
-Values of MSE, MAE and RMSE
+              Values of MSE, MAE and RMSE
 ![ml2 9](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/d057c6bb-f0f9-4013-ad88-17fd03a066d4)
 
 
