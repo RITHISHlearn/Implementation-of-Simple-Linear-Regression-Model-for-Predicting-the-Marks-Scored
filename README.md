@@ -102,7 +102,7 @@ rmse=np.sqrt(mse)
 
 print("RMSE= ",rmse)
 ## Output:
-df.head()
+df.head();
 ![ml2 1](https://github.com/RITHISHlearn/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446645/4b472129-c44e-4df9-85cc-4a8508b2c343)
 
 df.tail()
